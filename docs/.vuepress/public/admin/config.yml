@@ -3,8 +3,8 @@ backend:
   repo: puck3000/redux-vuepress
   branch: master
 
-public_folder: ".vuepress/dist/"
-media_folder: ".vuepress/dist/assets/img"
+public_folder: "docs/.vuepress/dist/"
+media_folder: "docs/.vuepress/dist/assets/img"
 
 collections:
   - name: "Pages"

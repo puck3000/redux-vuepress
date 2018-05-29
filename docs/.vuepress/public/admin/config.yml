@@ -14,7 +14,7 @@ collections:
     slug: "{{slug}}"
     fields:
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Titelbild", name: "heroImg", widget: "image"}
       - {label: "Bildunterschrift", name: "bildunterschrift", widget: "string"}
+      - {label: "Inhalt", name: "inhalt", widget: "markdown"}
 

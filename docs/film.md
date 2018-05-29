@@ -1,8 +1,5 @@
 ---
-<<<<<<< HEAD
 layout: Rahelpage
-=======
->>>>>>> 436f0af2a7a004fa26f80bc2cd5f0e214d8b29f1
 title: film
 heroImg: /assets/img/vielzahlleiserpfiffe.jpg
 bildunterschrift: Vielzahl leiser Pfiffe
@@ -403,4 +400,3 @@ inhalt: >-
 
   ```
 ---
-

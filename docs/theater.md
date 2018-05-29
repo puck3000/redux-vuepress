@@ -1,7 +1,7 @@
 ---
 title: theater
-titelbild: img
+heroImg: /assets/img/vielzahlleiserpfiffe.jpg
 bildunterschrift: unterschrift
+inhalt: theaterbild
 ---
 
-theater

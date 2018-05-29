@@ -15,4 +15,6 @@ collections:
     fields:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Titelbild", name: "heroImg", widget: "image"}
+      - {label: "Bildunterschrift", name: "bildunterschrift", widget: "string"}
 

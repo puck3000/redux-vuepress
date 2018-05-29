@@ -1,10 +1,10 @@
 ---
-layout: rahelpage
 title: film
-heroImg: /docs/.vuepress/dist/vielzahlleiserpfiffe.jpg
+heroImg: /assets/img/vielzahlleiserpfiffe.jpg
 bildunterschrift: Vielzahl leiser Pfiffe
-inhalt: >
+inhalt: >-
   # Markdown examples
+
 
   Edit on 30.04.2018 with NetlifyCMS
 
@@ -62,11 +62,13 @@ inhalt: >
 
   (c) (C) (r) (R) (tm) (TM) (p) (P) +-
 
+
   ```
 
   (c) (C) (r) (R) (tm) (TM) (p) (P) +-
 
   ```
+
 
   ## Emphasis
 
@@ -74,16 +76,17 @@ inhalt: >
   **This is bold text**
 
 
-  __This is bold text__
+  **This is bold text**
 
 
-  *This is italic text*
+  _This is italic text_
 
 
   _This is italic text_
 
 
   ~~Strikethrough~~
+
 
   ```
 
@@ -117,6 +120,7 @@ inhalt: >
 
   > > > ...or with spaces between arrows.
 
+
   ```
 
   > Blockquotes can also be nested...
@@ -146,6 +150,8 @@ inhalt: >
       * Facilisis in pretium nisl aliquet
       * Nulla volutpat aliquam velit
   * Very easy!
+
+
 
   ```
 
@@ -181,6 +187,8 @@ inhalt: >
   57. foo
 
   58. bar
+
+
 
   ```
 
@@ -263,6 +271,7 @@ inhalt: >
   | ext    | extension to be used for dest
   files.                                      |
 
+
   ```
 
   | Option |
@@ -310,6 +319,7 @@ inhalt: >
 
   [link with title](http://nodeca.github.io/pica/demo/ "title text!")
 
+
   ```
 
   [link text](http://dev.nodeca.com)
@@ -330,9 +340,6 @@ inhalt: >
 
 
   Like links, Images also have a footnote style syntax
-
-
-  ![Alt text](https://octodex.github.com/images/dojocat.jpg title)
 
 
   With a reference later in the document defining the URL location:
@@ -363,6 +370,7 @@ inhalt: >
 
   > Shortcuts (emoticons): :-) :-( 8-) ;)
 
+
   ```
 
   > Classic markup: :wink: :crush: :cry: :tear: :laughing: :yum:
@@ -380,6 +388,7 @@ inhalt: >
 
   :::
 
+
   ```
 
   ::: warning
@@ -390,3 +399,4 @@ inhalt: >
 
   ```
 ---
+
